@@ -2,4 +2,4 @@
 
 Dataset Link : https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset.
 
-Please checkout the ppt file in the repository, it has all the details, analysis, findings, recommendations of the project.
+Please checkout the power point file name User Engagement Analysis in the repository, it has all the details, analysis, findings, recommendations of the project.
